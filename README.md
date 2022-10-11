@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS, JavaScript, Node.JS.</strong>
+   Languages: <strong>HTML, CSS, JavaScript, React, Node.JS.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Vs code studio, Git/GitHub, HundBrake, GIMP.</strong>
+  💼 Tools: <strong>Vs code studio, Git/GitHub, FIGMA, GIMP.</strong>
 </p>
 
 <p align="left">
