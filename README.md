@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-   Languages: <strong>HTML, CSS, JavaScript, React.JS, Node.JS, Next.JS, TypesScript.</strong>
+   Languages: <strong>HTML, CSS, JavaScript, React.JS, Node.JS, Next.JS, TypesScript, Tailwind CSS.</strong>
 </p>
 
 <p align="left">
